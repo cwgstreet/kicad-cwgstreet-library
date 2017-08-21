@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 7555
+D CMOS 555 RC Timer IC
+K 555, Timer
+F http://www.nxp.com/documents/data_sheet/ICM7555.pdf
+$ENDCMP
+#
+#End Doc Library
