@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 7555
+D CMOS 555 RC Timer IC
+K 555, Timer
+F http://www.nxp.com/documents/data_sheet/ICM7555.pdf
+$ENDCMP
+#
+$CMP LCD_16x2_I2C
+D LCD 16x2 16 character x 2 Lines
+K LCD, 16x2, 1602, I2C, LCM1602
+F http://land-boards.com/blwiki/index.php?title=I2C-LCD-Display, https://arduino-info.wikispaces.com/LCD-Blue-I2C#v1
+$ENDCMP
+#
+$CMP LCD_16x2_I2C_OffBoard
+D LCD 16x2 16 character x 2 Lines
+K LCD, 16x2, 1602, I2C, LCM1602
+F http://land-boards.com/blwiki/index.php?title=I2C-LCD-Display, https://arduino-info.wikispaces.com/LCD-Blue-I2C#v1
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2CH_I2C_Logic_Level_Convertor_Bidirectional
+D 2 Ch I2C Logic Level Convertor Bi-directional 3V <-> 5V
+K Logic Level-Shifter 5V <-> 3V Arduino I2C Bidirectional
+F http://www.ebay.com.au/itm/2PCS-2-CH-I2C-IIC-Logic-Level-Converter-Module-Bi-Directional-5V-3V-for-Arduino-/262905389204?hash=item3d3661e094
+$ENDCMP
+#
+$CMP TXB0102DCT
+D 2-Bit Bidirectional Voltage-Level Translator in TSSOP Package With Auto Direction Sensing and ±15-kV ESD Protection
+K Level-Shifter CMOS-TTL-Translation
+F http://www.ti.com/lit/ds/symlink/txb0102.pdf
+$ENDCMP
+#
+#End Doc Library

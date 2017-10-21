@@ -1,0 +1,26 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 5V-3V3_StepDown_module_off-board
+D 5V->3.3V Step-down module AMS1117 800 mA off-board
+K Step-down buck module
+F http://www.ebay.com.au/itm/2PCS-DC-5V-to-3-3V-Step-Down-Power-Supply-Module-AMS1117-LDO-800MA-8-6-12-3-mm-/281471231238?hash=item4188fe2506
+$ENDCMP
+#
+$CMP LCD_16x2_I2C_OffBoard
+D LCD 16x2 16 character x 2 Lines
+K LCD, 16x2, 1602, I2C, LCM1602
+F http://land-boards.com/blwiki/index.php?title=I2C-LCD-Display, https://arduino-info.wikispaces.com/LCD-Blue-I2C#v1
+$ENDCMP
+#
+$CMP Rotary_Encoder_Switch_off-board
+D Rotary encoder, dual channel, incremental quadrate outputs, with switch
+K rotary switch encoder switch push button
+F ~
+$ENDCMP
+#
+$CMP SW_Push_off-board
+D Push button switch, generic, two pins
+K switch normally-open pushbutton push-button
+$ENDCMP
+#
+#End Doc Library
